@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border-bottom: 3px black solid;
+}
+.welcome-bar {
+    display: flex;
+    width: 20%;
+    justify-content: space-between;
+}
+.post-msg {
+    margin-top: 20px;
+}
+.message-content {
+    display: flex;
+    justify-content: space-between;
+}
+.comment {
+    width: 70%;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.comment-header {
+    background-color: white;
+}
+.btn {
+    margin: 10px;
+}
